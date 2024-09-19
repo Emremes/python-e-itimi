@@ -4,4 +4,4 @@
 
  *türkiye illeri hakkında bilgiler
  *doğal dil işleme için örnek isim ve soyisim listesi
- *sözlük  (türkcr kelimeler oluşan)
+ *sözlük  (türkcr kelimeler oluşan))
